@@ -12,7 +12,7 @@ module.exports = {
     colors: {
       white: "#fff",
       neutral: colors.gray,
-      primary: colors.purple,
+      primary: colors.black,
     },
     extend: {
       typography: (theme) => ({

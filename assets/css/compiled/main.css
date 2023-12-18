@@ -229,7 +229,7 @@ button,
 [type='submit'] {
   -webkit-appearance: button;
   /* 1 */
-  background-color: transparent;
+  background-color: #ffffff;
   /* 2 */
   background-image: none;
   /* 2 */
@@ -1063,7 +1063,7 @@ video {
 
 .link {
   --tw-bg-opacity: 1;
-  background-color: rgb(126 34 206 / var(--tw-bg-opacity));
+  background-color: rgb(80 80 80 / var(--tw-bg-opacity));
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
@@ -1507,7 +1507,7 @@ video {
 @media (prefers-color-scheme: dark) {
   .dark\:bg-neutral-800 {
     --tw-bg-opacity: 1;
-    background-color: rgb(31 41 55 / var(--tw-bg-opacity));
+    background-color: rgb(00 00 00 / var(--tw-bg-opacity));
   }
 
   .dark\:text-neutral-400 {
