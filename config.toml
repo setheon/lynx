@@ -18,7 +18,7 @@ disableKinds = ["taxonomy", "term"]
      { link = "https://seth.nz/" },
      { instagram  = "https://instagram.com/fujiseth" },
      { linkedin = "https://www.linkedin.com/in/seth-copeland-524b50246/" },
-     { youtube = "https://youtube.com/setheon" },
+     { youtube = "https://www.youtube.com/@setheon" },
     #{ mastodon = "https://mastodon.instance/@setheon" },
     #{ github = "https://github.com/setheon" },
   ]
